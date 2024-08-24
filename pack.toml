@@ -1,0 +1,13 @@
+name = "MyMods"
+author = "Ben"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6fed2ac4e7a397482f5a9cd99d17102bc9f243a36e0ceafc467edf4335a9fdff"
+
+[versions]
+fabric = "0.16.2"
+minecraft = "1.21.1"
